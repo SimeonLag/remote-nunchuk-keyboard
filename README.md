@@ -24,3 +24,8 @@ Mentors:
 Real Time System Programing 2 : Prof. Miroslav Popović, Teaching Assistant Dejan Bokan.
 
 Fundamentals of Computer Networks 1: Prof. Ilija Bašičević, Teaching Assistant Miloš Pilipović.
+
+Students:
+Simeon Lagundzin
+Dario Peric
+Jelena Kretler
